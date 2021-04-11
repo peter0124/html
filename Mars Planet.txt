@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<title>Mars Planet</title>
+
+<body>
+
+<h1 style="text-align:center;">Mars planet</h1>
+
+<p style="text-align:center;">The red planet Mars, named for the Roman god of war, has long been an omen in the night sky. And in its own way, the planet’s rusty red surface tells a story of destruction. Billions of years ago, the fourth planet from the sun could have been mistaken for Earth’s smaller twin, with liquid water on its surface—and maybe even life.<br>
+<br>
+
+Now, the world is a cold, barren desert with few signs of liquid water. But after decades of study using orbiters, landers, and rovers, scientists have revealed Mars as a dynamic, windblown landscape that could—just maybe—harbor microbial life beneath its rusty surface even today.
+With a radius of 2,106 miles, Mars is the seventh largest planet in our solar system and about half the diameter of Earth. Its surface gravity is 37.5 percent of Earth’s.
+Mars rotates on its axis every 24.6 Earth hours, defining the length of a Martian day, which is called a sol (short for “solar day”). Mars’s axis of rotation is tilted 25.2 degrees relative to the plane of the planet’s orbit around the sun, which helps give Mars seasons similar to those on Earth. Whichever hemisphere is tilted closer to the sun experiences spring and summer, while the hemisphere tilted away gets fall and winter. At two specific moments each year—called the equinoxes—both hemispheres receive equal illumination.
+<br>
+<br>
+But for several reasons, seasons on Mars are different from those on Earth. For one, Mars is on average about 50 percent farther from the sun than Earth is, with an average orbital distance of 142 million miles. This means that it takes Mars longer to complete a single orbit, stretching out its year and the lengths of its seasons. On Mars, a year lasts 669.6 sols, or 687 Earth days, and an individual season can last up to 194 sols, or just over 199 Earth days.
+<br>
+<br>
+The angle of Mars’s axis of rotation also changes much more often than Earth's, which has led to swings in the Martian climate on timescales of thousands to millions of years. In addition, Mars’s orbit is less circular than Earth’s, which means that its orbital velocity varies more over the course of a Martian year. This annual variation affects the timing of the red planet’s solstices and equinoxes. On Mars, the northern hemisphere’s spring and summer are longer than the fall and winter.
+<br>
+<br>
+There’s another complicating factor: Mars has a far thinner atmosphere than Earth, which dramatically lessens how much heat the planet can trap near its surface. Surface temperatures on Mars can reach as high as 70 degrees Fahrenheit and as low as -225 degrees Fahrenheit, but on average, its surface is -81 degrees Fahrenheit, a full 138 degrees colder than Earth’s average temperature.</p>
+<div style="text-align:center;">
+<img scr="./mars planet2.jpg" alt="Mars Planet" width="500" height="500"/>
+</div>
+<div style="text-align:center;">
+<button onclick="document.location='Table.html'">Next Page <button>
+</div>
+</body>
+</html>
